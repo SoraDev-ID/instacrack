@@ -1,12 +1,12 @@
 # Support 64/32 bit 
-# Prem
+# Premium 🔥🔥
 
 # SCRIPT
 <a href="https://ibb.co/6HvQ1g3"><img src="https://i.ibb.co/gSvYPz5/FB-IMG-1657282646152.jpg" alt="FB-IMG-1657282646152" border="0"></a>
 
 # Instalation
-Download apk Termuxnya disini biar ngga eror
-[Klik Disini](https://f-droid.org/repo/com.termux_117.apk)
+Download apk Termuxnya disini biar ngga eror🔥🔥
+[Klik Disini](https://f-droid.org/repo/com.termux_117.apk)🔥
 ```bash
 $ cd
 $ pkg update && apt upgrade
@@ -30,6 +30,6 @@ $ ls ( L kecil )
 $ git pull
 $ python igeh.py
 ```
-## Chat Me On Telegram 
-[Klik Disini Untuk Pembelian](https://t.me/ProxySpy)
+## Chat Me On Telegram 🔥👇👇👇👇
+[Klik Disini Untuk Pembelian](https://t.me/ProxySpy)🔥🔥🔥
 
