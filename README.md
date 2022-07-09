@@ -24,18 +24,18 @@ $ pip install mechanize
 $ pip install rich 
 $ pip install  bs4
 $ pip install --upgrade pip
-$ git clone https://github.com/SoraDev-ID/igeh
+$ 
 $ ls ( L kecil )
 $ cd igeh
-$ python igeh.py
+$ python 
 ```
 ## Cara Update
 ```php
 $ cd
-$ cd igeh
+$ cd 
 $ ls ( L kecil )
 $ git pull
-$ python igeh.py
+$ python 
 ```
 
 
