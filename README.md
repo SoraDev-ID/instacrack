@@ -18,13 +18,13 @@
        $ pip install mechanize
        $ pip install bs4
        $ pip install rich
-       $ git clone https://github.com/SoraDev-ID/igeh
+       
 
 <h3 align="left">Cara Menjalankan Script:</h3>
 
-       $ cd igeh
+       $ cd 
        $ git pull
-       $ python igeh.py
+       $ python
 
 
 <h3 align="left">Harga License:</h3>
