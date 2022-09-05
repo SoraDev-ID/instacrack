@@ -29,10 +29,10 @@
 
 <h3 align="left">Harga License:</h3>
      
-     - 1 Bulan  : 100.000
-     - Open Source  : 300.000
+     - 1 Bulan  : 150.000
+     - Open Source  : 500.000
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connectwith me:</h3>
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/SoraDev-ID) [![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/X_Explorer) 
 
